@@ -1,2 +1,2 @@
 # SwarajGawande
-<a href="info" title="About Me">About Me</a>
+<a href="SwarajGawande.github.io/info" title="About Me">About Me</a>
