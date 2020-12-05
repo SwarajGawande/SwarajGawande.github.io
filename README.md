@@ -1,2 +1,2 @@
-# SwarajGawande.github.io
-Web designing page.
+# SwarajGawande
+I am a Second year undergraduate student at IITDelhi
